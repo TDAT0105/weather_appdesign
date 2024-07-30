@@ -1,3 +1,3 @@
 # weather_appdesign
 
-A new Flutter project.
+Small forecast weather app
